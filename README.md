@@ -12,4 +12,4 @@
 3. ***Add Bot Website To Uptimer From [Here](https://uptimerobot.com/).***
 
 
-   ```Thanks Fro using Astro-MD```
+   ```Thanks Fro using Darck-Omega-Bot```
